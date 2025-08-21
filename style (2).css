@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  text-align: center;
+  background: #fff5f5;
+  color: #333;
+}
+
+header {
+  background: #b22222;
+  color: white;
+  padding: 20px;
+}
+
+h1, h2 {
+  margin: 10px 0;
+}
+
+.about, .services, .gallery, .contact {
+  padding: 20px;
+}
+
+.services ul {
+  list-style: none;
+  padding: 0;
+}
+
+.services li {
+  background: #ffeaea;
+  margin: 10px auto;
+  padding: 10px;
+  max-width: 500px;
+  border-radius: 8px;
+  border: 1px solid #b22222;
+}
+
+.gallery img {
+  width: 250px;
+  margin: 10px;
+  border: 3px solid #b22222;
+  border-radius: 10px;
+}
+
+.contact a {
+  color: #b22222;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 10px;
+}
+
+footer {
+  background: #b22222;
+  color: white;
+  padding: 10px;
+  margin-top: 20px;
+}
